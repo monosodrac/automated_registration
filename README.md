@@ -3,7 +3,7 @@
 [NUMPY_BADGE]:https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white
 [PRS_BADGE]:https://img.shields.io/badge/PRs-welcome-green?style=for-the-badge
 
-<h1 align="center" style="font-weight: bold;">Automação de Cadastro com PyAutoGUI 🖱️</h1>
+<h1 align="center" style="font-weight: bold;">Automated Product Registration with PyAutoGUI 🖱️</h1>
 
 ![python][PYTHON_BADGE]
 ![pandas][PANDAS_BADGE]
