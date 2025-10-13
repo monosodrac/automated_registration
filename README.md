@@ -38,7 +38,7 @@
 
 - [Python 3.10+](https://www.python.org/downloads/)
 - [pip](https://pip.pypa.io/en/stable/installation/)
-- Google Chrome browser
+- [Google Chrome browser](https://www.google.com/chrome/)
 
 <h3 id="cloning">Cloning</h3>
 
@@ -75,13 +75,13 @@ This automation performs the following steps:
 3. Fills in the email and password fields.
 4. Imports a CSV file (produtos.csv) containing the list of products.
 5. Iterates through each product and automatically fills in the form fields:
-  - Código
-  - Marca
-  - Tipo
-  - Categoria
-  - Preço unitário
-  - Custo
-  - Observação (optional)
+    - Código
+    - Marca
+    - Tipo
+    - Categoria
+    - Preço unitário
+    - Custo
+    - Observação (optional)
 6. Submits each product registration.
 
 <h2 id="csv">📁 CSV Structure</h2>
