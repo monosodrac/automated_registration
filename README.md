@@ -22,7 +22,7 @@
 - [📁 CSV Structure](#csv)
 - [🧰 Files Overview](#files)
 - [🤝 How to Reach Me](#reach)
-- [📌 Obs](#obs)
+- [📫 How to Contribute](#contribute)
   
 </details>
 
